@@ -12,7 +12,7 @@ This Project implements Car Rental System in an efficient manner.The system uses
 The First part contains c++ code necessary for the system to run.Other parts are used as Databases for the system.
 
 ## INSTALLATION
-To run the system, all the files are required to be in the same folder and presence of c++ compiler is a must.
+To run the system, all the files are required to be in the same directory and presence of c++ compiler is a must.
 
 ## USAGE
 The system is Designed for 3 types of users.
